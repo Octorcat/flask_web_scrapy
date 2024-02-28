@@ -1,12 +1,11 @@
 # Flask Web Scraper
 
 This is a Flask application that scrapes a website and exports the data to an Excel file.
-<a href="https://app.daily.dev/ItamiWorld"><img src="https://api.daily.dev/devcards/dab7f860f7394fc0803744e36b99fc39.png?r=rb6" width="200" align='right' alt="Tadao Minami's Dev Card"/></a>
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/partner0307/flask-web-scrapping.git`
-2. Navigate to the project directory: `cd flask-web-scrapping`
+1. Clone the repository: `git clone https://github.com/Octorcat/flask-web-scrapy.git`
+2. Navigate to the project directory: `cd flask-web-scrapy`
 3. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
